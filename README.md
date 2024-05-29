@@ -11,12 +11,13 @@ Click the “Login” button.
 If the credentials are valid, you’ll be redirected to the dashboard or home page.
 
 Screenshots
-!Login Page
+!Login Page 
+to be included
 
 Technologies Used
-HTML
-CSS
-JavaScript
+>> HTML
+>> CSS
+>> JavaScript
 Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
 
@@ -24,9 +25,9 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
-Your Name (GitHub: RohitKumar2511)
+GitHub: RohitKumar2511
 
 Contact
-Feel free to reach out via email:rohitkumarmahato2511@gmail.com
+Feel free to reach out via email:  rohitkumarmahato2511@gmail.com
 
 Happy coding! 🚀👩‍💻
