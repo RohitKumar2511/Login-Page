@@ -11,8 +11,8 @@ Click the “Login” button.
 If the credentials are valid, you’ll be redirected to the dashboard or home page.
 
 Screenshots
-!Login Page 
-to be included
+![image](https://github.com/user-attachments/assets/af308647-0180-452b-a614-f89e3820f82c)
+
 
 Technologies Used
 >> HTML
